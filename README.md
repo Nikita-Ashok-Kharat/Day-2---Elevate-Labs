@@ -1,4 +1,4 @@
-# Day-2---Elevate-Labs
+# Day-2-Elevate-Labs
 SQL Developer Internship - Day 2 Task
 
 <h1>Hostel Management System</h1>
