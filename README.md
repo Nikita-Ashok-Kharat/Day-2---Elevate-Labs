@@ -29,4 +29,3 @@ SQL Developer Internship - Day 2 Task
   Deleted hostels based on name and conditions using `DELETE`with `WHERE`.
 ---
 
-These operations showcase essential SQL skills such as data insertion, schema alteration, null and default handling, updates, and conditional deletions in a real-world hostel management scenario.
