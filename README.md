@@ -1,8 +1,10 @@
 # Day-2-Elevate-Labs
 SQL Developer Internship - Day 2 Task
 
+---
+
 <h3>Hostel Management System</h3>
-<h3>SQL Operations Performed</h3>
+<h3>Task Overview </h3>
 
  1.Use INSERT INTO for adding rows <br>
  2.Handle missing values using NULL or default  <br>
