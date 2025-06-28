@@ -7,6 +7,8 @@ SQL Developer Internship - Day 2 Task
  1.Use INSERT INTO for adding rows <br>
  2.Handle missing values using NULL or default  <br>
  3.Use UPDATE and DELETE with WHERE conditions  <br>
+
+---
  
 <h5>The SQL queries in this project perform the following operations:</h5>
 
