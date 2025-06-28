@@ -1,7 +1,7 @@
 # Day-2-Elevate-Labs
 SQL Developer Internship - Day 2 Task
 
-<h1>Hostel Management System</h1>
+<h3>Hostel Management System</h3>
 <h3>SQL Operations Performed</h3>
 
  1.Use INSERT INTO for adding rows <br>
