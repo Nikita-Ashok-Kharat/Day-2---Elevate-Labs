@@ -3,18 +3,30 @@ SQL Developer Internship - Day 2 Task
 
 <h1>Hostel Management System</h1>
 <h3>SQL Operations Performed</h3>
+
+ 1.Use INSERT INTO for adding rows <br>
+ 2.Handle missing values using NULL or default  <br>
+ 3.Use UPDATE and DELETE with WHERE conditions  <br>
+ 
 <h5>The SQL queries in this project perform the following operations:</h5>
 
-<b>Data Insertion:</b> Added records into hostel, room, mess, and student tables. <br>
+- **Data Insertion:**  
+  Added multiple hostel records using `INSERT INTO`.
 
-<b>Data Retrieval:</b> Used SELECT queries to display records from tables. <br>
+- **Data Retrieval:**  
+  Used `SELECT` statements to view hostel details.
 
-<b>Data Deletion:</b> Deleted specific room records using DELETE. <br>
+- **Null Handling:**  
+  Modified the `facility` column to allow `NULL` and inserted a record with missing facility details.
 
-<b>Data Update:</b> Updated student email using UPDATE. <br>
+- **Default Value Setting:**  
+  Set a default value `'Basic Facilities'` for the `facility` column and inserted a record without explicitly providing the facility.
 
-<b>Default Value Setting:</b> Set a default value for the address column in the student table using ALTER. <br>
+- **Data Update:**  
+  Updated `capacity` and `facility` fields for specific hostels using `UPDATE` with `WHERE`.
 
-<b>Null Handling:</b> Checked for records with missing student_id using IS NULL. <br>
+- **Data Deletion:**  
+  Deleted hostels based on name and conditions using `DELETE`with `WHERE`.
+---
 
-These operations demonstrate core SQL functionalities used in managing a hostel management database. <br>
+These operations showcase essential SQL skills such as data insertion, schema alteration, null and default handling, updates, and conditional deletions in a real-world hostel management scenario.
